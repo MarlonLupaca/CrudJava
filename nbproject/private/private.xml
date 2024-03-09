@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/InterfacesOperacionesCategorias/EliminarC.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/intefacesOperacionesProductos/ModificarProductos.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/InterfacesOperacionesCategorias/RegistrarC.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/interfaces/BuscarPedidos.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/interfaces/Principal.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/operaciones/categoriasO.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/InterfaceOperacionesLogin/Registrador.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/interfaces/MenuPrincipal.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/operaciones/buscadorO.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/InterfaceOperacionesLogin/logearse.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/InterfacesOperacionesPedidos/EnviarPedido.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/base/conexion.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/Acciones/CategoriasAcciones.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/Acciones/BuscadorAcciones.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/interfaces/productos.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/clases/FacturaC.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/interfacesOperacionesClientes/ModificarClientes.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/interfaces/login.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/Acciones/LoginAcciones.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/Acciones/PedidosAcciones.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/clases/pilaC.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/interfacesOperacionesClientes/RegistrarClientes.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/interfaces/categorias.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/intefacesOperacionesProductos/EliminarProductos.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/interfacesOperacionesClientes/EliminarClientes.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/clases/InfoFacturaC.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/interfacesOperacionesClientes/clientesPrincipal.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/operaciones/productosO.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/intefacesOperacionesProductos/productosPrincipal.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/interfacesOperacionesClientes/BuscarClientes.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/InterfacesOperacionesPedidos/RegistrarPedido.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/InterfacesOperacionesPedidos/InfoFactura.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/Acciones/ProductosAcciones.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/InterfacesOperacionesCategorias/ModificarC.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/InterfacesOperacionesPedidos/BuscarPrincipal.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/clases/productosC.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/Acciones/ClientesAcciones.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/intefacesOperacionesProductos/BuscarProducto.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/intefacesOperacionesProductos/RegistrarProductos.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/InterfacesOperacionesCategorias/BuscarC.java</file>
+            <file>file:/C:/Users/Marlon%20Diego%20Lupaca/Documents/NetBeansProjects/pas/src/InterfacesOperacionesPedidos/BuscarPedido.java</file>
+        </group>
+    </open-files>
+</project-private>
